@@ -123,6 +123,14 @@ Edit file `tailwind.config.js` untuk mengubah color scheme
 - Minimal bundle size dengan Vite
 - Progressive enhancement
 
+## Perubahan
+Refactor components and styles for improved readability and maintainability
+
+- Updated Confetti, Countdown, Effects, Footer, Gallery, Hero components for consistency and clarity.
+- Enhanced animations and styles in index.css and tailwind.config.js.
+- Cleaned up main.jsx and ensured proper imports.
+- Adjusted Vite configuration for better project structure.
+
 ---
 
 **Made with 💜 for celebrating special moments!**
